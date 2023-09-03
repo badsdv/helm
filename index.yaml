@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  airflow:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-03T17:32:42.974518329+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 50eab9d6aa8477309f514416f0d98e07272532643211a48e2b4f8ef348136a05
+    name: airflow
+    urls:
+    - https://github.com/badsdv/helm/releases/download/airflow-0.1.0/airflow-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-03T17:32:42.536943122+03:00"
